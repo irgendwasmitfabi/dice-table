@@ -1,0 +1,21 @@
+{
+  "name": "Würfeltafel",
+  "short_name": "Würfeltafel",
+  "description": "Punktezähler für das Würfelspiel mit sechs Würfeln.",
+  "lang": "de",
+  "dir": "ltr",
+  "id": "/",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#1b1510",
+  "theme_color": "#1b1510",
+  "categories": ["games", "utilities"],
+  "icons": [
+    { "src": "/assets/icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "/assets/icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "/assets/icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" },
+    { "src": "/assets/icons/favicon.svg", "sizes": "any", "type": "image/svg+xml" }
+  ]
+}
